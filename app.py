@@ -5,7 +5,7 @@ import io
 # Set page to wide mode for a better dashboard feel
 st.set_page_config(page_title="Thickness Grouping Tool", layout="wide")
 
-st.title("📊 Exact Thickness Grouping Dashboard")
+st.title("📊 Grouping Dashboard")
 
 
 # --- IMPROVEMENT 1: CACHING ---
